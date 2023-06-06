@@ -1,11 +1,11 @@
 {
-  "name": "react-native-health",
-  "version": "1.14.0",
+  "name": "dimitris4/react-native-health",
+  "version": "0.0.1",
   "description": "A React Native package to interact with Apple HealthKit",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agencyenterprise/react-native-healthkit.git"
+    "url": "https://github.com/dimitris4/react-native-health"
   },
   "keywords": [
     "Apple",
